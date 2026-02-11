@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# ML artifacts
+artifacts/
+
+# Data files
+data/
+*.csv
+*.xlsx
+*.pkl
+
+# Logs
+*.log
