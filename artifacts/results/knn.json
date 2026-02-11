@@ -1,0 +1,37 @@
+{
+    "model_name": "knn",
+    "accuracy": 0.85,
+    "classification_report": {
+        "2": {
+            "precision": 0.6333333333333333,
+            "recall": 0.6551724137931034,
+            "f1-score": 0.6440677966101694,
+            "support": 29.0
+        },
+        "3": {
+            "precision": 0.8781725888324873,
+            "recall": 0.9402173913043478,
+            "f1-score": 0.9081364829396326,
+            "support": 184.0
+        },
+        "4": {
+            "precision": 0.9230769230769231,
+            "recall": 0.4444444444444444,
+            "f1-score": 0.6,
+            "support": 27.0
+        },
+        "accuracy": 0.85,
+        "macro avg": {
+            "precision": 0.8115276150809146,
+            "recall": 0.6799447498472985,
+            "f1-score": 0.7174014265166008,
+            "support": 240.0
+        },
+        "weighted avg": {
+            "precision": 0.8536395830621719,
+            "recall": 0.85,
+            "f1-score": 0.8415628290107804,
+            "support": 240.0
+        }
+    }
+}
